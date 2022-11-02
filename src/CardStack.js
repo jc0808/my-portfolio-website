@@ -50,7 +50,7 @@ function CardStack() {
                         <div className="links">
                             <ul style={{ listStylePosition: "inside", columns: "2", listStyleType: "none" }}>
                                 <li><a href="https://github.com/Jafet19/Choose-Your-Character-" target="_blank">Github</a></li>
-                                <li><a href="" target="_blank">Website</a></li>
+                                <li><a href="https://chooseyourcharacter.netlify.app/" target="_blank">Website</a></li>
                             </ul>
                         </div>
                         <br />
